@@ -10,7 +10,7 @@ The Backpack Plugin is a Bukkit plugin that adds a backpack feature to players i
 
 ## Installation
 
-1. Download the latest release of the plugin from the [Releases]([https://github.com/your/repository/releases](https://github.com/WePico/Backpack-Plugin/releases)) page.
+1. Download the latest release of the plugin from the [Releases]([LINK](https://github.com/WePico/Backpack-Plugin/releases)) page.
 2. Copy the `BackpackPlugin.jar` file into the `plugins` folder of your Bukkit server.
 3. Start or restart your Bukkit server.
 
@@ -24,7 +24,7 @@ The Backpack Plugin is a Bukkit plugin that adds a backpack feature to players i
 
 To build the plugin from source, follow these steps:
 
-1. Clone the repository: `[git clone https://github.com/your/repository.git](https://github.com/WePico/Backpack-Plugin.git)`
+1. Clone the repository: `[LINK](https://github.com/WePico/Backpack-Plugin.git)`
 2. Open the project in your preferred Java IDE.
 3. Build the project using Maven or your IDE's build tools.
 4. The compiled plugin JAR file will be available in the `target` directory.
