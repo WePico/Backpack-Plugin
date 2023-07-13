@@ -1,0 +1,8 @@
+name: BackpackPlugin
+version: '${project.version}'
+main: fr.freeswitch.backpackplugin.BackpackPlugin
+api-version: '1.18'
+commands:
+  backpack:
+    description: Opens your backpack.
+    usage: /<command>
